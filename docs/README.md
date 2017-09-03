@@ -5,10 +5,9 @@ SmartSocialNetworkService (SmartSNS)
 
 * Image-based SNS with the ability to prefetch the image contents.(that are expected to be viewed)
 
-* You can share high-quality original images with people more easily :)
+* We perform pre-fetching when the user is not working on another network.
 
-
-
+* You can share high-quality original images with people more easily and efficiently :)
 
 
 
